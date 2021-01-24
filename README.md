@@ -1,4 +1,4 @@
-# account-wide configuration fro AWS accounts
+# account-wide configuration for AWS accounts
 
 Based on an [example by Mike Roberts](https://github.com/symphoniacloud/coffee-store/tree/episode-3/account-wide-resources), with personal customizations.
 
