@@ -7,3 +7,5 @@ Based on an [example by Mike Roberts](https://github.com/symphoniacloud/coffee-s
 ```
 > ./deploy.sh YOUR_GITHUB_PERSONAL_ACCESS_TOKEN
 ```
+
+The Github access token should have `repo` and `admin:repo_hook` scopes selected.
